@@ -1,6 +1,10 @@
 name: flutter_qr_scanner_example
 description: Demonstrates how to use the flutter_qr_scanner plugin.
 
+environment:
+  sdk: ">=2.10.0 <3.0.0"
+  flutter: ">=0.1.7 <3.0.0"
+
 dependencies:
   flutter:
     sdk: flutter
